@@ -1,2 +1,2 @@
 # CDARNet
-CDARNet: A Robust Cross-Dimensional Adaptive Region Reconstruction Network for Real-Time Metal Surface Defect Segmentation
+We have made the source code of the CDARNet publicly available.
